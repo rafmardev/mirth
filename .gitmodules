@@ -1,15 +1,15 @@
-[submodule "platform"]
-	path = platform
+[submodule "platform/mirth-local-environment"]
+	path = platform/mirth-local-environment
 	url = https://github.com/rafmardev/mirth-local-environment.git
-[submodule "application/hl7Consumer"]
-	path = application/hl7Consumer
-	url = https://github.com/rafmardev/mirth-hl7-consumer.git
-[submodule "application/hl7Producer"]
-	path = application/hl7Producer
+[submodule "application/mirth-hl7-producer"]
+	path = application/mirth-hl7-producer
 	url = https://github.com/rafmardev/mirth-hl7-producer.git
-[submodule "application/lispChecker"]
-	path = application/lispChecker
+[submodule "application/mirth-hl7-consumer"]
+	path = application/mirth-hl7-consumer
+	url = https://github.com/rafmardev/mirth-hl7-consumer.git
+[submodule "application/lisp-checker"]
+	path = application/lisp-checker
 	url = https://github.com/rafmardev/lisp-checker
 [submodule "application/csv"]
 	path = application/csv
-	url = https://github.com/rafmardev/csv.git
+	url = https://github.com/rafmardev/csv
