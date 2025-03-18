@@ -11,9 +11,7 @@ https://gobyexample.com/
 It is a repo that summarizes Go with examples and makes it easy to learn more about this programming language. 
 
 ### How would you explain to your grandmother what Availity does?
-Imagine you go to the doctor, and the doctor needs to check if your insurance will cover the visit. Instead of calling the insurance company and waiting on hold for a long time, Availity helps the doctor’s office do this very quickly online. It’s like a magic tool that helps doctors and hospitals talk to insurance companies and figure out things like how much the visit will cost or if the insurance will pay for it.
-
-So, Availity is just a system that helps everyone—doctors, hospitals, and insurance companies—work together more smoothly without all the waiting and confusion. It makes sure your healthcare is taken care of faster and more easily.
+When you go to the doctor, the professional needs to contact your health insurance company to request information such as whether a visit will cost you or if it's covered. Availity provides easy online connectivity with insurance companies, saving medical professionals and insurance providers time.
 
 ## Component 1
 https://github.com/rafmardev/mirth-hl7-producer.git
